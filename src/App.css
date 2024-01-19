@@ -1,0 +1,13 @@
+* {
+    background-color: FFFFFF;
+    padding: 0;
+    color: aliceblue;
+    font-family: Inter;
+    overflow-x: hidden;
+    height: max-content;
+}
+
+.brands {
+    margin: 10em 0;
+}
+
